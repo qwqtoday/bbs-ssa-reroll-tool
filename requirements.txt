@@ -1,0 +1,5 @@
+ahk
+mss
+numpy
+opencv-python
+paddleocr
